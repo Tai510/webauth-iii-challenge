@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "helmet": "^3.18.0",
+    "knex": "^0.17.5",
+    "sqlite3": "^4.0.8"
+  },
+  "name": "webauth-iii-challenge",
+  "description": "## Topics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "server": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tai510/webauth-iii-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tai510/webauth-iii-challenge/issues"
+  },
+  "homepage": "https://github.com/Tai510/webauth-iii-challenge#readme"
+}
