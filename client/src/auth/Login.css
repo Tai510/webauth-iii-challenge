@@ -1,0 +1,11 @@
+.Login-form {
+    display: flex;
+    flex-direction: row;
+    border: 1px solid black;
+    margin: 0 500px;
+    padding: 50px 50px;
+    text-align: start;
+}
+
+
+
